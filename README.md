@@ -11,7 +11,7 @@ In Windows, you should install EATSeg by right click the **EATSegSetup.exe** ins
 
 ## Useage
 
-Read the [EATSeg Manual](EATSeg Manual.pdf) for the useage of EATSeg.
+Read the [EATSeg Manual](https://github.com/MountainAndMorning/EATSeg/blob/main/EATSeg%20Manual.pdf) for the useage of EATSeg.
 
 
 

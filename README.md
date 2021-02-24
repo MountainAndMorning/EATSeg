@@ -13,5 +13,15 @@ In Windows, you should install EATSeg by right click the **EATSegSetup.exe** ins
 
 Read the [EATSeg Manual](https://github.com/MountainAndMorning/EATSeg/blob/main/EATSeg%20Manual.pdf) for the useage of EATSeg.
 
+# v0.3
+## Improved
+- Retrain pericardium segmentation deep learning model on  a larger dataset.
+- Reduce the memory consumption when segmenting the pericardium.
+- Change the database location to the app data folder. For Windows this folder is `~/AppData/Local/EATSeg`. For MacOS this folder is `~/Library/Application Support/EATSeg`.
+
+## Fixed
+- The export function can not work normally. Fixed.
+
+
 
 

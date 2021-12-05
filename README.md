@@ -17,16 +17,7 @@ Read the [EATSeg Manual](https://github.com/MountainAndMorning/EATSeg/blob/main/
 
 Please cite the software by this paper:
 
-@article{li2021automatic,
-  title={Automatic quantification of epicardial adipose tissue volume},
-  author={Li, Xiaogang and Sun, Yu and Xu, Lisheng and Greenwald, Stephen E and Zhang, Libo and Zhang, Rongrong and You, Hongrui and Yang, Benqiang},
-  journal={Medical Physics},
-  volume={48},
-  number={8},
-  pages={4279--4290},
-  year={2021},
-  publisher={Wiley Online Library}
-}
+Li, Xiaogang, et al. "Automatic quantification of epicardial adipose tissue volume." Medical Physics 48.8 (2021): 4279-4290.
 
 # v2.0
 ## Improved

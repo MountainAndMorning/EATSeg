@@ -3,7 +3,7 @@ EATSeg is a tool designed to help clinicians and researchers quickly and efficie
 
 ## Download
 
-Visit the [release page](https://github.com/MountainAndMorning/EATSeg/releases) to download an appropriate version. Both MacOS and Windows 10 are supported.
+Visit the [release page](https://github.com/MountainAndMorning/EATSeg/releases) to download an appropriate version. Both [MacOS](https://github.com/MountainAndMorning/EATSeg/releases/download/v2.0/Slice-2.0.0.dmg.zip) and [Windows 10](https://github.com/MountainAndMorning/EATSeg/releases/download/v2.0/Slice.Setup.2.0.0.exe) are supported.
 
 ## Installration
 

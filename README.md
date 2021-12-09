@@ -9,7 +9,9 @@ Visit the [release page](https://github.com/MountainAndMorning/EATSeg/releases) 
 
 ![Slice](Slice.gif)
 
-For more help, you can connect the developer by e-mail (18207481578@163.com).
+For more help, you can connect the developer by the e-mail (18207481578@163.com) or scan the QR code in WeChat.
+
+![QR](QR.png)
 
 ## Citation
 

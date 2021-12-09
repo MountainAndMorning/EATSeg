@@ -5,11 +5,10 @@ EATSeg is a tool designed to help clinicians and researchers quickly and efficie
 
 Visit the [release page](https://github.com/MountainAndMorning/EATSeg/releases) to download an appropriate version. Both [MacOS](https://github.com/MountainAndMorning/EATSeg/releases/download/v2.0/Slice-2.0.0.dmg.zip) and [Windows 10](https://github.com/MountainAndMorning/EATSeg/releases/download/v2.0/Slice.Setup.2.0.0.exe) are supported.
 
-## Installration
-
-In Windows, you should install EATSeg by right click the **EATSegSetup.exe** installer and choose **Run as administrator**. 
-
 ## Useage
+
+![Slice](Slice.gif)
+
 For more help, you can connect the developer by e-mail (18207481578@163.com).
 
 ## Citation
@@ -21,7 +20,7 @@ Li, Xiaogang, et al. "Automatic quantification of epicardial adipose tissue volu
 # v2.0
 ## Improved
 - Rewrite the whole software by javascript
-- The stability is improved
+- The speed and stability are both highly improved
 - The name is changed to Slice.
 
 # v0.3

@@ -3,11 +3,11 @@ Slice is a tool designed to help clinicians and researchers quickly and efficien
 
 ## Download
 
-Visit the [release page](https://github.com/MountainAndMorning/EATSeg/releases) to download an appropriate version. Both [MacOS](https://github.com/MountainAndMorning/EATSeg/releases/download/v2.0/Slice-2.0.0.dmg.zip) and [Windows 10](https://github.com/MountainAndMorning/EATSeg/releases/download/v2.0/Slice.Setup.2.0.0.exe) are supported.
+Visit the [release page](https://github.com/MountainAndMorning/EATSeg/releases) to download an appropriate version..
 
-## Useage
+## Docs
 
-![Slice](Slice.gif)
+https://slice-doc.netlify.app/
 
 For more help, you can connect the developer by the e-mail (18207481578@163.com) or scan the QR code in WeChat.
 
@@ -18,6 +18,17 @@ For more help, you can connect the developer by the e-mail (18207481578@163.com)
 Please cite the software by this paper:
 
 Li, Xiaogang, et al. "Automatic quantification of epicardial adipose tissue volume." Medical Physics 48.8 (2021): 4279-4290.
+
+
+# v3.0
+## New
+- Added coronary centerline extraction module.
+- Added plaque analysis module.
+- Created a new documentation website.
+
+## Improved
+- Redesigned the UI.
+- Improved the stability.
 
 # v2.0
 ## Improved

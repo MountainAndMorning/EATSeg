@@ -1,13 +1,9 @@
 # TIMESlice (EATSeg)
 TIMESlice is a tool designed to help clinicians and researchers quickly and efficiently carry out epicardia adipose tissue (EAT) related researches.
 
-## Download
+## Docs and Download
 
-Visit the [release page](https://github.com/MountainAndMorning/EATSeg/releases) to download an appropriate version..
-
-## Docs
-
-https://slice-doc.netlify.app/
+https://slice-doc.netlify.app/ or https://mountainandmorning.github.io/
 
 For more help, you can connect the developer by the e-mail (18207481578@163.com) or scan the QR code in WeChat.
 
